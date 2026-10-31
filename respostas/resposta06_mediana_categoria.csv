@@ -1,0 +1,13 @@
+description,numero_acidentes,mediana_por_categoria
+Minor incident involving equipment,15,15
+Minor incident involving other driver,17,16
+Minor incident involving traffic,11,11
+Minor incident involving weather,10,12
+Moderate incident involving equipment,16,14.5
+Moderate incident involving other driver,10,17.5
+Moderate incident involving traffic,18,14
+Moderate incident involving weather,18,15
+Severe incident involving equipment,12,11.5
+Severe incident involving other driver,13,16
+Severe incident involving traffic,12,10.5
+Severe incident involving weather,17,15
